@@ -1,0 +1,11 @@
+/home/josh/Documents/Code/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.csprojAssemblyReference.cache
+/home/josh/Documents/Code/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.AssemblyInfoInputs.cache
+/home/josh/Documents/Code/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.AssemblyInfo.cs
+/home/josh/Documents/Code/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern
+/home/josh/Documents/Code/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.deps.json
+/home/josh/Documents/Code/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.runtimeconfig.json
+/home/josh/Documents/Code/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.runtimeconfig.dev.json
+/home/josh/Documents/Code/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.dll
+/home/josh/Documents/Code/FactoryDesignPattern/bin/Debug/netcoreapp3.1/FactoryDesignPattern.pdb
+/home/josh/Documents/Code/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.dll
+/home/josh/Documents/Code/FactoryDesignPattern/obj/Debug/netcoreapp3.1/FactoryDesignPattern.pdb
